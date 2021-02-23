@@ -1,0 +1,52 @@
+@charset "utf-8";
+/*CSS Document */
+
+body {
+	text-align: left;
+	width: 100%;
+}
+
+h1 {
+	font-family: Georgia, sans-serif;
+	font-size: 32px;
+}
+
+.introduction {
+	 color: red;
+     font-size: 2rem;
+     color: rgb(0,0,0);
+}
+
+
+h3 {
+
+	font-family: 'Arial', Helvetica, sans-serif;
+	color: rgb(100,149,237);
+	font-size: 14px;
+}
+
+#proof {
+	font-family: 'Arial', Helvetica, sans-serif;
+	color: rgb(128,0,128);
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 24px;
+	color: rgb(128,0,128);
+}
+
+
+p {
+	font-size: 16px;
+}
+
+
+.my-container {
+	padding: 10px;
+	border: 2px solid;
+	border-color: rgb(147,112,219);
+	background-color: rgb(230,230,250);
+	font-weight: normal;
+}
+
