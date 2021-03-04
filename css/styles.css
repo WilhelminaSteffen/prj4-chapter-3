@@ -1,0 +1,84 @@
+@charset "utf-8";
+/*CSS Document */
+
+
+* {
+	margin: 0;
+	border: 0;
+	font-size: 100%;
+}
+
+
+body {
+	text-align: left;
+	width: 100%;
+}
+
+h1 {
+	color: rgb(230,230,250);
+	font-family: Georgia, sans-serif;
+	font-size: 32px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+
+}
+
+.introduction {
+	 color: red;
+     font-size: 2rem;
+     color: rgb(0,0,0);
+}
+
+
+h3 {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+	font-family: 'Arial', Helvetica, sans-serif;
+	color: rgb(100,149,237);
+	font-size: 14px;
+}
+
+#proof {
+	font-family: 'Arial', Helvetica, sans-serif;
+	color: rgb(128,0,128);
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 24px;
+	color: rgb(128,0,128);
+	font-family: Georgia, sans-serif;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+p {
+	font-size: 16px;
+	margin-right: 20px;
+	margin-left: 20px;
+	font-family: 'Oxygen', sans-serif;
+	
+}
+
+
+.my-container {
+	padding: 10px;
+	border: 2px solid;
+	border-color: rgb(147,112,219);
+	background-color: rgb(230,230,250);
+	font-weight: normal;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
